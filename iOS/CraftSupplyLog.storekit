@@ -1,0 +1,40 @@
+{
+  "identifier": "39D8B1D5",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "20E4A2B1",
+      "localizations": [],
+      "name": "Craft Supply Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "8F1A2C3D",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlock Craft Supply Log Pro features",
+              "displayName": "Craft Supply Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.craftsupplylog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Craft Supply Log Pro Monthly",
+          "subscriptionGroupID": "20E4A2B1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
